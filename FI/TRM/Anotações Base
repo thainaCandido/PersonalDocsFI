@@ -7,7 +7,7 @@ Certificação: C_S4FTR_2023
 
 1.  **Definição de Tipos de Produto (Product Types):**
     * **Caminho IMG:** *Financial Supply Chain Management -> Treasury and Risk Management -> Transaction Manager -> Money Market -> Transaction Management -> Product Types -> Define Product Types*
-    * **Detalhes:** Define os diferentes tipos de produtos financeiros (ex: Depósito a Prazo, Empréstimo, etc.). Para Depósito a Prazo, geralmente é usado o tipo `51A` (Depósito a Prazo).
+    * **Detalhes:** Define os diferentes tipos de produtos financeiros (ex: Depósito a Prazo, Empréstimo, etc.). Para Depósito a Prazo, geralmente é usado o tipo `55A`.
 
 2.  **Definição de Tipos de Transação (Transaction Types):**
     * **Caminho IMG:** *Financial Supply Chain Management -> Treasury and Risk Management -> Transaction Manager -> Money Market -> Transaction Management -> Transaction Types -> Define Transaction Types*
