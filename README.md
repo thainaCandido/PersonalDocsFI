@@ -1,9 +1,11 @@
-# 📚 sap-mydocs: Anotações de Configurações SAP FI
+# 📚 DocsFI: Anotações de Configurações SAP FI
 
 Bem-vindo(a) ao `sap-mydocs`! Este repositório foi criado como um espaço pessoal e centralizado para minhas anotações, guias e configurações funcionais relacionadas ao módulo SAP FI (Contabilidade Financeira).
 
-O objetivo principal é documentar processos, configurações detalhadas e soluções para cenários específicos do SAP FI, servindo como uma base de conhecimento prática e de fácil consulta.
+Este repositório contém anotações autorais feitas para organização pessoal.
+Todo o conteúdo aqui registrado foi elaborado com base em estudos, experiências práticas e materiais de domínio público ou acesso autorizado.
 
+Não se trata de documentação oficial da SAP ou de qualquer outro sistema citado.
 ## 🚀 O que você vai encontrar aqui?
 
 Este repositório está organizado para facilitar a localização de informações sobre as principais áreas e configurações dentro do módulo FI. Você encontrará:
