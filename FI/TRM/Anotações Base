@@ -30,18 +30,3 @@ Menu SAP
                 └── Accounting Analyzer
 
 
-1.  **Definição de Tipos de Produto (Product Types):**
-    * **Caminho IMG:** *Financial Supply Chain Management -> Treasury and Risk Management -> Transaction Manager -> Money Market -> Transaction Management -> Product Types -> Define Product Types*
-    * **Detalhes:** Define os diferentes tipos de produtos financeiros (ex: Depósito a Prazo, Empréstimo, etc.). Para Depósito a Prazo, geralmente é usado o tipo `55A`.
-
-2.  **Definição de Tipos de Transação (Transaction Types):**
-    * **Caminho IMG:** *Financial Supply Chain Management -> Treasury and Risk Management -> Transaction Manager -> Money Market -> Transaction Management -> Transaction Types -> Define Transaction Types*
-    * **Detalhes:** Define as ações que podem ser realizadas com um tipo de produto (ex: `100` - Criar Operação, `200` - Liquidar).
-
-3.  **Determinação de Contas Contábeis (Account Determination):**
-    * **Caminho IMG:** *Financial Supply Chain Management -> Treasury and Risk Management -> Transaction Manager -> General Settings -> Accounting -> Link to Other Components -> Define Account Determination*
-    * **Detalhes:** Crucial para integrar o TRM com o FI. Define quais contas contábeis serão utilizadas para os diferentes fluxos de caixa (juros, principal, despesas).
-
-4.  **Atribuição de Grupos de Autorização:**
-    * **Caminho IMG:** *Financial Supply Chain Management -> Treasury and Risk Management -> General Settings -> Authorizations -> Define Authorization Groups*
-    * **Detalhes:** Gerencia quem pode acessar e operar com certos tipos de produtos/transações.
