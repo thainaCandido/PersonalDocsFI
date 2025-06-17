@@ -26,7 +26,8 @@ As anotações estão organizadas em pastas, refletindo as subáreas e tópicos 
 * **`FI/Ativos_Fixos`**: Configuração e gestão de ativos fixos, depreciação, aquisição, alienação.
 * **`FI/Bancos`**: Configuração de bancos, extrato eletrônico, tesouraria.
 * **`FI/Impostos`**: Configurações de impostos (IVA, PIS/COFINS, ISS, etc.), determinação de impostos.
-* **`FI/Fechamento_Contabil`**: Anotações sobre processos de fechamento mensal/anual, provisões, etc.
+* **`FI/FSCM`**: Anotações sobre processos.
+* **`FI/TRM`**: Anotações sobre processos.
 
 *Obs: Novas pastas serão adicionadas conforme a necessidade e o volume de anotações crescer.*
 
