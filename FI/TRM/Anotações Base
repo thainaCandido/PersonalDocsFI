@@ -7,6 +7,27 @@ Certificação: C_S4FTR_2023 (Expira em 31/12/25)
 
 Conceitos: Módulo do SAP Financial Supply Chain Management (FSCM), focado na gestão de tesouraria, investimentos, empréstimos, riscos financeiros e operações com derivativos.
 
+Menu SAP  
+└── Contabilidade  
+    └── Contabilidade financeira  
+        └── Financial Supply Chain Management  
+            ├── Administração avançada de pagamentos  
+            ├── SAP Credit Management  
+            ├── Biller Direct  
+            ├── Administração de caixa e de liquidez  
+            ├── Collections Management  
+            ├── Dispute Management  
+            ├── In-House Cash  
+            ├── Bank Communication Management  
+            └── Treasury and Risk Management  
+                ├── Parceiro de negócios  
+                ├── Funções básicas  
+                ├── Administrador de transações  
+                ├── Administração de hedge e Contabilidade  
+                ├── Market Risk Analyzer  
+                ├── Credit Risk Analyzer  
+                ├── Portfolio Analyzer  
+                └── Accounting Analyzer
 
 
 1.  **Definição de Tipos de Produto (Product Types):**
