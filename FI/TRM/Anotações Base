@@ -6,6 +6,16 @@ FI-TR
 Certificação: C_S4FTR_2023 (Expira em 31/12/25) 
 
 Conceitos: Módulo do SAP Financial Supply Chain Management (FSCM), focado na gestão de tesouraria, investimentos, empréstimos, riscos financeiros e operações com derivativos.
+Dentre as principais funções do TRM temos:
+Administrador de transações - Empréstimos ativos e passivos, Aplicações financeiras, Derivativos (swaps, opções, futuros).
+Administração de Hedge e Contabilidade - Classificação contábil conforme IFRS e normas locais.
+Market Risk Analyzer - Exposição a taxas de juros, variações cambiais (Var).
+Credit Risk Analyzer - Limites de crédito por parceiro, Avaliação de risco de inadimplência.
+Portfolio Analyzer - Acompanhamento de rentabilidade, Alocação por tipo de ativo.
+
+
+
+Cálculo de valor em risco (VaR)
 
 Menu SAP  
 └── Contabilidade  
